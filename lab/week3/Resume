@@ -1,1 +1,104 @@
+<!DOCTYPE html>
+<!-- Charles Tacker Resume -->
+<html>
+  <head>
+    <title> Charles Tacker </title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
 
+  <body>
+      <div class="Name">
+        <h1 font-weight: bold; text-align: center; > 
+            Charles Tacker
+        </h1>
+      </div>
+      <div class="contact-info">
+        <a text-align: center; href="https://www.bing.com/search?pglt=169&q=League+City%2C+Texas&cvid=2237eba1363f4f189bcfa98feb4d44c6&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQLhhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQg1NzE4ajBqMagCALACAA&FORM=ANNTA1&PC=DCTS" target="_blank" >
+            League City, TX
+	</a>
+	<span> | </span>
+	<h4>
+		Texasaggie2025@tamu.edu
+	</h4>
+	<span> | </span>
+	<h4> 713-492-4535
+	</h4>
+	</div>
+	<br>
+
+	<div class="Objective">
+	<h3>
+	Objective
+	</h3>
+	<p>
+	     University undergraduate with educational background in GIST, pursuing a position in
+Geographic Information Systems (GIS) where I can analyze data and manage assets.
+	</p>
+      </div>
+
+      <div class="Education">
+	<h2>
+	  Education
+	</h2>
+	<h4 class="degree">
+	   <span>BS in Geographic Information Science & Technology</span>
+	   <span class="gpa">GPA 3.492</span>
+	</h4>
+	<h4>
+	   Expected graduation date: December 2025
+	</h4>
+	<h4>
+	   Texas A&M University, College Station, TX
+	</h4>
+	<h5>
+	   Programming Courses
+	</h5>
+	<ul>
+	   <li>Engineering I</li>
+	   <li>Programming I</li>
+	   <li>WebGIS</li>	
+	</ul>
+	<h5>GIS courses</h5>
+	<ul>
+	   <li>Principles of GIS</li>
+	   <li>Cartography & Visualization<li>
+	   <li>Remote Sensing in Geosciences</li>
+	</ul>
+	<h5>Organizational and analytical courses</h5>
+	<ul>
+	   <li>Data Analysis in Geography</li>
+	   <li>Statistical Methods</li>
+	</ul>
+      </div>
+      <br>
+
+      <div class="Employment">
+	<h2>Employment</h2>
+	<h4>
+		<span class="employ-position-1"><i>GIS Intern</i></span>
+		<span class="employ-date-1">May 2024-Aug.2024</span>
+	</h4>
+	<h4><a href="https://www.leaguecitytx.gov/" target="_blank">City of League City</a>, League City, TX
+	</h4>
+	<ul>
+	   <li>Easements plotted with all required attributes utilizing ArcGIS Pro.</li>
+	   <li>As-Built records linked to current city infrastructure.</li>
+	   <li>Applied SQL Programming to data entry.</li>
+	   <li>Aided the use of drones to take aerial imagery of local developments.</li>
+      </div>
+      <br>
+
+      <div class="Skills">
+	<h2>Relevant Skills</h2>
+	<ul>
+	   <li>Producing map projections</li>
+	   <li>Creating and maintaining GIS layers, data, and computer files</li>
+	   <li>Digitizing data</li>
+	   <li>Sort/modify attributes</li>
+	   <li>Using Satellite imagery</li>
+	   <li>Choropleth and Isarithmic mapping</li>
+	</ul>	
+  </body>
+
+
+</html>
