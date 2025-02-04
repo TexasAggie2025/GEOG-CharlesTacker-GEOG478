@@ -1,0 +1,43 @@
+.contact-info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	
+}
+
+.Name {
+	text-align: center;
+}
+
+.Objective h3 {
+	color: #003366;   
+	border-bottom: 2px solid #003366;
+}
+
+.Education h2 {
+	color: #0055aa; 
+	border-bottom: 2px solid #0055aa;
+	padding-bottom: 5px;
+}
+
+.Employment h2 {
+	color: #006600;
+	border-bottom: 2px solid #006600;
+}
+
+.degree {
+	display:flex;
+	justify-content: space-between;
+}
+
+.gpa {
+	text-align: right;
+}
+
+.employ-position-1{
+	text-align: left;
+}
+
+.employ-date-1{
+	float: right;
+}
